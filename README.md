@@ -18,6 +18,9 @@ URL: https://docs.github.com/en/packages/guides/about-github-container-registry
 ## GitLab
 URL: https://docs.gitlab.com/ee/user/packages/container_registry/
 
+## JFrog Container Registry
+URL: https://jfrog.com/container-registry/
+
 ## Treescale
 URL: https://treescale.com/
 
