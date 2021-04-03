@@ -7,7 +7,7 @@ initial source: https://johanbostrom.se/blog/list-of-free-private-docker-registr
 URL: https://aws.amazon.com/ecr/
 
 ## Canister
-U$L: https://www.canister.io/
+URL: https://www.canister.io/
 
 ## Docker Hub 
 URL: https://hub.docker.com/
