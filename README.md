@@ -1,12 +1,12 @@
-# docker-registries
-list of docker registries
+# List of Public Docker Registries
+
 
 initial source: https://johanbostrom.se/blog/list-of-free-private-docker-registry-and-repository
 
 ## Amazon Elastic Container Registry
 URL: https://aws.amazon.com/ecr/
 
-## canister
+## Canister
 U$L: https://www.canister.io/
 
 ## Docker Hub 
@@ -15,7 +15,7 @@ URL: https://hub.docker.com/
 ## Github Container Registry
 URL: https://docs.github.com/en/packages/guides/about-github-container-registry
 
-## gitlab
+## GitLab
 URL: https://docs.gitlab.com/ee/user/packages/container_registry/
 
 ## Treescale
