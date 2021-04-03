@@ -1,4 +1,4 @@
-# List of Public Docker Registries
+# List of Container Registries
 
 
 initial source: https://johanbostrom.se/blog/list-of-free-private-docker-registry-and-repository
